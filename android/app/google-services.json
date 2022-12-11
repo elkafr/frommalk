@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468835718917",
+    "firebase_url": "https://haraj-malek.firebaseio.com",
+    "project_id": "haraj-malek",
+    "storage_bucket": "haraj-malek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468835718917:android:b7e626cd4b881b88efc96c",
+        "android_client_info": {
+          "package_name": "com.art4muslim.frommalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468835718917-c3572g5d1tqqmgkhpl3pfi7lpv3gvstk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOnGbZRywrwyDnbYxOpUfMMzUJEqD1mqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468835718917-c3572g5d1tqqmgkhpl3pfi7lpv3gvstk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
